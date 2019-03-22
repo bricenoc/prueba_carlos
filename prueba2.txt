@@ -2,3 +2,5 @@ otro archivo de prueba
 
 
 modificado para prueba
+
+Cambio realizado desde el master y no actualizado aún en local
